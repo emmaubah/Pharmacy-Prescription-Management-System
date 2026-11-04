@@ -1,0 +1,30 @@
+body {
+    font-family: "Courier New", monospace;
+    background-color: whitesmoke;
+    margin: 20px;
+}
+h1{
+    color: steelblue
+}
+nav a {
+    color: steelblue;
+    font-weight: bold;
+    text-decoration: none;
+}
+table {
+    border-collapse: collapse;
+    background-color: white;
+
+}
+th, td{
+    border: 1px solid lightgray;
+    padding: 8px;
+}
+th{
+    background-color: aliceblue;
+}
+input[type="submit"]{
+    background-color: steelblue;
+    color: white;
+    padding: 6px 14px;
+}
