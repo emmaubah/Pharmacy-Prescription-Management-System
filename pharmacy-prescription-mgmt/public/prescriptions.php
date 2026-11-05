@@ -515,7 +515,7 @@ if ($selectedId !== null) {
 
     <!-- SECTION 6: Selected Prescription Details -->
 
-    <?php if ($selectedPrescription !== null): 
+    <?php if ($selectedPrescription !== null): ?>
         <p>
             <a
                 class="button button-primary"
@@ -527,7 +527,7 @@ if ($selectedId !== null) {
         </p>
 
 
-        ?>
+       
 
         <section class="panel">
 
